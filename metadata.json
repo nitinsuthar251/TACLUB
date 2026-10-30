@@ -1,0 +1,6 @@
+{
+  "name": "DMD Earning Club",
+  "description": "DMD Earning Club (DMD अर्निंग क्लब) - Official Gaming & Lottery Platform with UPI Payment QR, WinGo, Aviator, and Master Admin Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
